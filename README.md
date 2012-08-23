@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/iamdustan/categorizr.js.png)](http://travis-ci.org/iamdustan/categorizr.js)
 # Categorizr.js
 
 Categorizr.js is a port of bjankord’s categorizr.php script. There is planned
